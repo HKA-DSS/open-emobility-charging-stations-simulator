@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.5.0](https://github.com/SAP/e-mobility-charging-stations-simulator/compare/webui@v1.4.2...webui@v1.5.0) (2024-07-17)
+
+
+### 🤖 Automation
+
+* **deps-dev:** bump @vitest/coverage-v8 from 2.0.1 to 2.0.2 ([bbdb386](https://github.com/SAP/e-mobility-charging-stations-simulator/commit/bbdb3861ed14ea52669231e5d372add76c50d65e))
+* **deps-dev:** bump rimraf from 5.0.8 to 6.0.0 ([207408c](https://github.com/SAP/e-mobility-charging-stations-simulator/commit/207408cf661a7b8a1d35f8a9aa5ff02104fcd8ba))
+* **deps-dev:** bump typescript-eslint from 7.16.0 to 7.16.1 ([a60a99d](https://github.com/SAP/e-mobility-charging-stations-simulator/commit/a60a99dce05328466e9a631ba83a9d527f3b4548))
+* **deps-dev:** bump vitest from 2.0.1 to 2.0.2 ([#1082](https://github.com/SAP/e-mobility-charging-stations-simulator/issues/1082)) ([f3d0d30](https://github.com/SAP/e-mobility-charging-stations-simulator/commit/f3d0d30346974ec0e979d53d8a761ce254ba8bb0))
+
 ## [1.4.2](https://github.com/SAP/e-mobility-charging-stations-simulator/compare/webui-v1.4.1...webui@v1.4.2) (2024-07-06)
 
 ### 🧹 Chores
